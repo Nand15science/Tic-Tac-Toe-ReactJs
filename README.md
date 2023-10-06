@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # Tic-Tac-Toe-ReactJs
+#u can view app on : https://tic-tac-toe-gamenan.netlify.app/
 =======
 # Getting Started with Create React App
 
