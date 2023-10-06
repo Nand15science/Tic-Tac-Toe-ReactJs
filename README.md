@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+#You can view the app on: https://tic-tac-toe-gamenan.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
